@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "local_Server" : "True",
+    "local_uri" : "mysql://root:@localhost/icoder",
+    "prod_uri" : "mysql://root:@localhost/icoder",
+    "fb_url" : "https://facebook.com/icoder",
+    "tw_url" : "https://twitter.com/icoder",
+    "gh_url" : "https://github.com/icoder",
+    "blog_name" : "icoder",
+    "gmail-user" : "hhero0838@gmail.com",
+    "gmail-password" : "123hero098",
+    "about_text" : "Hi my name Janit Srivastava abd i make programming related blog. I am Programmer Blogger.",
+    "no_of_posts" : 3,
+    "login_image" : "login.svg",
+    "admin_user" : "hero",
+    "admin_password" : "hellobhai123",
+    "upload_location" : "C:\\Users\\ms\\PycharmProjects\\Flask-tuts\\static"
+  }
+
+
+
+}
